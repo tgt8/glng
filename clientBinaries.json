@@ -8,7 +8,7 @@
 	            "download": {
 	              "url": "http://207.148.104.9/lng8/glng/releases/download/v1.0.0/glng-linux-amd64-1.0.0-6dc3d659.tar.gz",
 	              "type": "tar",
-	              "md5": "8e603b88dadea2d8a305b79712d4cda3",
+	              "md5": "44b495a5096177569ce061f5ba064eb6",
 	              "bin": "glng-linux-amd64-1.0.0-6dc3d659/glng"
 	            },
 	            "bin": "glng",
@@ -28,7 +28,7 @@
 	            "download": {
 	              "url": "http://207.148.104.9/lng8/glng/releases/download/v1.0.0/glng-linux-386-1.0.0-6dc3d659.tar.gz",
 	              "type": "tar",
-	              "md5": "f1c91593b480c9877184fcc0c3342b30",
+	              "md5": "218bd0f284ca76a79c864cf12f478457",
 	              "bin": "glng-linux-386-1.0.0-6dc3d659/glng"
 	            },
 	            "bin": "glng",
@@ -50,7 +50,7 @@
                         "download": {
                             "url": "http://207.148.104.9/lng8/glng/releases/download/v1.0.0/glng-windows-amd64-1.0.0-6dc3d659.zip",
                             "type": "zip",
-                            "md5": "3794f0328e075f771cd9a178bf515bdf",
+                            "md5": "49b0b8df70f6e9f8b68b3b828d35aa6f",
                             "bin": "glng-windows-amd64-1.0.0-6dc3d659\\glng.exe"
                         },
                         "bin": "glng.exe",
@@ -70,7 +70,7 @@
                         "download": {
                             "url": "http://207.148.104.9/lng8/glng/releases/download/v1.0.0/glng-windows-386-1.0.0-6dc3d659.zip",
                             "type": "zip",
-                            "md5": "d4675df06cddac01eaf71b7dfc6df915",
+                            "md5": "6145e6613f73db03ec3cce5a028e415f",
                             "bin": "glng-windows-386-1.0.0-6dc3d659\\glng.exe"
                         },
                         "bin": "glng.exe",
