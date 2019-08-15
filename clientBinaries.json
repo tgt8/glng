@@ -1,0 +1,93 @@
+{
+    "clients": {
+        "Glng": {
+            "version": "1.0.0",
+            "platforms": {
+	        "linux": {
+	          "x64": {
+	            "download": {
+	              "url": "http://207.148.104.9/lng8/glng/releases/download/v1.0.0/glng-linux-amd64-1.0.0-6dc3d659.tar.gz",
+	              "type": "tar",
+	              "md5": "8e603b88dadea2d8a305b79712d4cda3",
+	              "bin": "glng-linux-amd64-1.0.0-6dc3d659/glng"
+	            },
+	            "bin": "glng",
+	            "commands": {
+	              "sanity": {
+	                "args": [
+	                  "version"
+	                ],
+	                "output": [
+	                  "Glng",
+	                  "1.0.0"
+	                ]
+	              }
+	            }
+	          },
+	          "ia32": {
+	            "download": {
+	              "url": "http://207.148.104.9/lng8/glng/releases/download/v1.0.0/glng-linux-386-1.0.0-6dc3d659.tar.gz",
+	              "type": "tar",
+	              "md5": "f1c91593b480c9877184fcc0c3342b30",
+	              "bin": "glng-linux-386-1.0.0-6dc3d659/glng"
+	            },
+	            "bin": "glng",
+	            "commands": {
+	              "sanity": {
+	                "args": [
+	                  "version"
+	                ],
+	                "output": [
+	                  "Glng",
+	                  "1.0.0"
+	                ]
+	              }
+	            }
+	          }
+	        },
+                "win": {
+                    "x64": {
+                        "download": {
+                            "url": "http://207.148.104.9/lng8/glng/releases/download/v1.0.0/glng-windows-amd64-1.0.0-6dc3d659.zip",
+                            "type": "zip",
+                            "md5": "3794f0328e075f771cd9a178bf515bdf",
+                            "bin": "glng-windows-amd64-1.0.0-6dc3d659\\glng.exe"
+                        },
+                        "bin": "glng.exe",
+                        "commands": {
+                            "sanity": {
+                                "args": [
+                                    "version"
+                                ],
+                                "output": [
+                                    "Glng",
+                                    "1.0.0"
+                                ]
+                            }
+                        }
+                    },
+                    "ia32": {
+                        "download": {
+                            "url": "http://207.148.104.9/lng8/glng/releases/download/v1.0.0/glng-windows-386-1.0.0-6dc3d659.zip",
+                            "type": "zip",
+                            "md5": "d4675df06cddac01eaf71b7dfc6df915",
+                            "bin": "glng-windows-386-1.0.0-6dc3d659\\glng.exe"
+                        },
+                        "bin": "glng.exe",
+                        "commands": {
+                            "sanity": {
+                                "args": [
+                                    "version"
+                                ],
+                                "output": [
+                                    "Glng",
+                                    "1.0.0"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
